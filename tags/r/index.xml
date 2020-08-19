@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Daniel Iong</title>
-    <link>https://danieliong.github.io/tags/r/</link>
+    <link>http://www.danieliong.me/tags/r/</link>
     <description>Recent content in R on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://danieliong.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.danieliong.me/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>STATS 551: Bayesian Modeling and Computation</title>
-      <link>https://danieliong.github.io/teaching/stats551/</link>
+      <link>http://www.danieliong.me/teaching/stats551/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://danieliong.github.io/teaching/stats551/</guid>
+      <guid>http://www.danieliong.me/teaching/stats551/</guid>
       <description>Under construction&amp;hellip;</description>
     </item>
     
     <item>
       <title>STATS 451: Bayesian Data Analysis</title>
-      <link>https://danieliong.github.io/teaching/stats451/</link>
+      <link>http://www.danieliong.me/teaching/stats451/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://danieliong.github.io/teaching/stats451/</guid>
+      <guid>http://www.danieliong.me/teaching/stats451/</guid>
       <description>Under construction&amp;hellip;</description>
     </item>
     
     <item>
       <title>MR-PATH</title>
-      <link>https://danieliong.github.io/projects/software/mrpath/</link>
+      <link>http://www.danieliong.me/projects/software/mrpath/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://danieliong.github.io/projects/software/mrpath/</guid>
+      <guid>http://www.danieliong.me/projects/software/mrpath/</guid>
       <description>Tutorial coming soon&amp;hellip;</description>
     </item>
     

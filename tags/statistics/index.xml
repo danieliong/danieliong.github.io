@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on Daniel Iong</title>
-    <link>https://danieliong.github.io/tags/statistics/</link>
+    <link>http://www.danieliong.me/tags/statistics/</link>
     <description>Recent content in Statistics on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://danieliong.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.danieliong.me/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>STATS 250: Introduction to Statistics and Data Analysis</title>
-      <link>https://danieliong.github.io/teaching/stats250/</link>
+      <link>http://www.danieliong.me/teaching/stats250/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://danieliong.github.io/teaching/stats250/</guid>
+      <guid>http://www.danieliong.me/teaching/stats250/</guid>
       <description>Under construction&amp;hellip;</description>
     </item>
     
