@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Daniel Iong</title>
-    <link>http://www-personal.umich.edu/~daniong/projects/</link>
+    <link>https://danieliong.github.io/projects/</link>
     <description>Recent content in Projects on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www-personal.umich.edu/~daniong/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danieliong.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
