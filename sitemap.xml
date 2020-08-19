@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/projects/ongoing/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/projects/software/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/teaching/stats551/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/teaching/stats451/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/teaching/stats250/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/publications/mrpath/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/teaching/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/blog/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/causal-inference/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/latent-variable-models/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/mendelian-randomization/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/mixture-models/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/publications/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/statistical-computing/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/graduate-school/</loc>
+    <lastmod>2019-11-08T10:06:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</loc>
+    <lastmod>2019-11-08T10:06:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/presentations/</loc>
+    <lastmod>2019-11-08T10:06:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/bayesian-statistics/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/c&#43;&#43;/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/em-algorithm/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/monte-carlo-sampling/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/projects/software/mrpath/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/projects/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/r/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/search/</loc>
+    <lastmod>2020-08-17T12:46:46-04:00</lastmod>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://www-personal.umich.edu/~daniong/tags/statistics/</loc>
+    <lastmod>2020-08-18T20:54:46-04:00</lastmod>
+  </url>
+  
+</urlset>

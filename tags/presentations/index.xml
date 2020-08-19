@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Daniel Iong</title>
+    <link>http://www-personal.umich.edu/~daniong/tags/presentations/</link>
+    <description>Recent content in Presentations on Daniel Iong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2019 10:06:35 -0400</lastBuildDate>
+    
+	<atom:link href="http://www-personal.umich.edu/~daniong/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graduate school presentation at UC Davis</title>
+      <link>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</guid>
+      <description>In November 2019, I had the wonderful opportunity to return to my alma mater to speak about graduate programs in Statistics at UM and my personal journey to graduate school in Statistics. I also gave advice to prospective graduate students from my former department on how to make yourself competitive for graduate programs in Statistics (what courses to take, how to get involved with research, etc).
+The slides from the presentation can be found here.</description>
+    </item>
+    
+  </channel>
+</rss>

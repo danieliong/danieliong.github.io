@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Daniel Iong</title>
+    <link>http://www-personal.umich.edu/~daniong/</link>
+    <description>Recent content in Home on Daniel Iong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="http://www-personal.umich.edu/~daniong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STATS 551: Bayesian Modeling and Computation</title>
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats551/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats551/</guid>
+      <description>Under construction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>STATS 451: Bayesian Data Analysis</title>
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats451/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats451/</guid>
+      <description>Under construction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>STATS 250: Introduction to Statistics and Data Analysis</title>
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats250/</guid>
+      <description>Under construction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization</title>
+      <link>http://www-personal.umich.edu/~daniong/publications/mrpath/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/publications/mrpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate school presentation at UC Davis</title>
+      <link>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</guid>
+      <description>In November 2019, I had the wonderful opportunity to return to my alma mater to speak about graduate programs in Statistics at UM and my personal journey to graduate school in Statistics. I also gave advice to prospective graduate students from my former department on how to make yourself competitive for graduate programs in Statistics (what courses to take, how to get involved with research, etc).
+The slides from the presentation can be found here.</description>
+    </item>
+    
+    <item>
+      <title>MR-PATH</title>
+      <link>http://www-personal.umich.edu/~daniong/projects/software/mrpath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/projects/software/mrpath/</guid>
+      <description>Tutorial coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://www-personal.umich.edu/~daniong/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

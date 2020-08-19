@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Daniel Iong</title>
+    <link>http://www-personal.umich.edu/~daniong/teaching/</link>
+    <description>Recent content in Teaching on Daniel Iong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 13:35:39 -0400</lastBuildDate>
+    
+	<atom:link href="http://www-personal.umich.edu/~daniong/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STATS 551: Bayesian Modeling and Computation</title>
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats551/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats551/</guid>
+      <description>Under construction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>STATS 451: Bayesian Data Analysis</title>
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats451/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats451/</guid>
+      <description>Under construction&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>STATS 250: Introduction to Statistics and Data Analysis</title>
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats250/</guid>
+      <description>Under construction&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

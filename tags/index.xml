@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Daniel Iong</title>
+    <link>http://www-personal.umich.edu/~daniong/tags/</link>
+    <description>Recent content in Tags on Daniel Iong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www-personal.umich.edu/~daniong/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Causal inference</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/causal-inference/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent variable models</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/latent-variable-models/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/latent-variable-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mendelian Randomization</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/mendelian-randomization/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/mendelian-randomization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture models</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/mixture-models/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/mixture-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical computing</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/statistical-computing/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/statistical-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate school</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/graduate-school/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/graduate-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/presentations/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian statistics</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/bayesian-statistics/</link>
+      <pubDate>Sat, 10 Feb 2018 18:56:13 -0500</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EM algorithm</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/em-algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/em-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte-Carlo sampling</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/monte-carlo-sampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/monte-carlo-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>http://www-personal.umich.edu/~daniong/tags/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
