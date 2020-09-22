@@ -39,6 +39,12 @@
   </url>
   
   <url>
+    <loc>http://www.danieliong.me/projects/software/mrpath/</loc>
+    <lastmod>2020-08-21T16:09:41-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.danieliong.me/teaching/</loc>
     <lastmod>2020-08-18T20:54:46-04:00</lastmod>
   </url>
@@ -110,6 +116,10 @@
   </url>
   
   <url>
+    <loc>http://www.danieliong.me/mr-path/mr-path/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.danieliong.me/tags/c&#43;&#43;/</loc>
     <lastmod>2020-08-21T16:09:41-04:00</lastmod>
   </url>
@@ -125,8 +135,7 @@
   </url>
   
   <url>
-    <loc>http://www.danieliong.me/projects/software/mrpath/</loc>
-    <lastmod>2020-08-21T16:09:41-04:00</lastmod>
+    <loc>http://www.danieliong.me/mr-path/</loc>
   </url>
   
   <url>

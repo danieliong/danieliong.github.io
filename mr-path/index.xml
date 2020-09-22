@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MR-PATH on Daniel Iong</title>
+    <link>http://www.danieliong.me/mr-path/</link>
+    <description>Recent content in MR-PATH on Daniel Iong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.danieliong.me/mr-path/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.danieliong.me/mr-path/mr-path/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.danieliong.me/mr-path/mr-path/</guid>
+      <description> Interactive Plots HDL cholesterol/Coronary heart disease example # Load MRPATH library(MRPATH) # Load HDL-CHD data from MRPATH data(hdl_chd) # Filter weak instruments hdl_chd = hdl_chd[hdl_chd$pval.selection &amp;lt; 5e-8,] # Find optimal initial values Nreps = 50 initValsObj = MRPATH_optimizeInitVals(K, data = hdl_chd, Nreps = Nreps, verbose=FALSE, init_seed = 5108) # Get MC-EM fit with optimal initial values  MCEM_fit = initValsObj$fit # Create interactive plot MRPATH_scatterplot(hdl_chd, MCEM_fit, exposure_name=&amp;#34;HDL&amp;#34;, outcome_name=&amp;#34;CHD&amp;#34;, interactive=TRUE)     BMI/Type II diabetes example # Load MRPATH library(MRPATH) # Load HDL-CHD data from MRPATH data(bmi_t2d) # Find optimal initial values Nreps = 50 initValsObj = MRPATH_optimizeInitVals(K, data = bmi_t2d, Nreps = Nreps, verbose=FALSE, init_seed = 5108) # Get MC-EM fit with optimal initial values  MCEM_fit = initValsObj$fit # Create interactive plot MRPATH_scatterplot(bmi_t2d, MCEM_fit, exposure_name=&amp;#34;BMI&amp;#34;, outcome_name=&amp;#34;T2D&amp;#34;, interactive=TRUE)     </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>MR-PATH</title>
+      <link>http://www.danieliong.me/projects/software/mrpath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.danieliong.me/projects/software/mrpath/</guid>
+      <description>Tutorial coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Graduate school presentation at UC Davis</title>
       <link>http://www.danieliong.me/blog/grad_school_presentation/</link>
       <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
@@ -58,12 +67,12 @@ The slides from the presentation can be found here.</description>
     </item>
     
     <item>
-      <title>MR-PATH</title>
-      <link>http://www.danieliong.me/projects/software/mrpath/</link>
+      <title></title>
+      <link>http://www.danieliong.me/mr-path/mr-path/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.danieliong.me/projects/software/mrpath/</guid>
-      <description>Tutorial coming soon&amp;hellip;</description>
+      <guid>http://www.danieliong.me/mr-path/mr-path/</guid>
+      <description> Interactive Plots HDL cholesterol/Coronary heart disease example # Load MRPATH library(MRPATH) # Load HDL-CHD data from MRPATH data(hdl_chd) # Filter weak instruments hdl_chd = hdl_chd[hdl_chd$pval.selection &amp;lt; 5e-8,] # Find optimal initial values Nreps = 50 initValsObj = MRPATH_optimizeInitVals(K, data = hdl_chd, Nreps = Nreps, verbose=FALSE, init_seed = 5108) # Get MC-EM fit with optimal initial values  MCEM_fit = initValsObj$fit # Create interactive plot MRPATH_scatterplot(hdl_chd, MCEM_fit, exposure_name=&amp;#34;HDL&amp;#34;, outcome_name=&amp;#34;CHD&amp;#34;, interactive=TRUE)     BMI/Type II diabetes example # Load MRPATH library(MRPATH) # Load HDL-CHD data from MRPATH data(bmi_t2d) # Find optimal initial values Nreps = 50 initValsObj = MRPATH_optimizeInitVals(K, data = bmi_t2d, Nreps = Nreps, verbose=FALSE, init_seed = 5108) # Get MC-EM fit with optimal initial values  MCEM_fit = initValsObj$fit # Create interactive plot MRPATH_scatterplot(bmi_t2d, MCEM_fit, exposure_name=&amp;#34;BMI&amp;#34;, outcome_name=&amp;#34;T2D&amp;#34;, interactive=TRUE)     </description>
     </item>
     
     <item>
