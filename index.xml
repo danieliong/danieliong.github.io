@@ -72,7 +72,8 @@ The slides from the presentation can be found here.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/mr-path/mr-path/</guid>
-      <description> Interactive Plots HDL cholesterol/Coronary heart disease example # Load MRPATH library(MRPATH) # Load HDL-CHD data from MRPATH data(hdl_chd) # Filter weak instruments hdl_chd = hdl_chd[hdl_chd$pval.selection &amp;lt; 5e-8,] # Find optimal initial values Nreps = 50 initValsObj = MRPATH_optimizeInitVals(K, data = hdl_chd, Nreps = Nreps, verbose=FALSE, init_seed = 5108) # Get MC-EM fit with optimal initial values  MCEM_fit = initValsObj$fit # Create interactive plot MRPATH_scatterplot(hdl_chd, MCEM_fit, exposure_name=&amp;#34;HDL&amp;#34;, outcome_name=&amp;#34;CHD&amp;#34;, interactive=TRUE)     BMI/Type II diabetes example # Load MRPATH library(MRPATH) # Load HDL-CHD data from MRPATH data(bmi_t2d) # Find optimal initial values Nreps = 50 initValsObj = MRPATH_optimizeInitVals(K, data = bmi_t2d, Nreps = Nreps, verbose=FALSE, init_seed = 5108) # Get MC-EM fit with optimal initial values  MCEM_fit = initValsObj$fit # Create interactive plot MRPATH_scatterplot(bmi_t2d, MCEM_fit, exposure_name=&amp;#34;BMI&amp;#34;, outcome_name=&amp;#34;T2D&amp;#34;, interactive=TRUE)     </description>
+      <description>Interactive Plots The function MRPATH_scatterplot in the MRPATH R package has an interactive option that creates a plot_ly scatter-plot which displays information about the SNPs and the model fit as you hover over it.
+ If you hover over the points, you will get the RSID and the cluster membership probabilities from the MR-PATH model of that particular SNP. The lines and shaded regions give each cluster&amp;rsquo;s mean and 68% probability interval, respectively.</description>
     </item>
     
     <item>

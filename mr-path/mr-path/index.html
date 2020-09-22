@@ -97,6 +97,18 @@
 
 <h3 class="mb-0" style="color:#2745cf; font-size: 3rem; padding-bottom: 20px;">Interactive Plots</h3>
 
+<p>The function <code>MRPATH_scatterplot</code> in the <code>MRPATH</code> R package has an <code>interactive</code>
+option that creates a <code>plot_ly</code> scatter-plot which displays information about
+the SNPs and the model fit as you hover over it.</p>
+<ul>
+<li>If you hover over the points, you will get the RSID and the cluster
+membership probabilities from the MR-PATH model of that particular SNP.</li>
+<li>The lines and shaded regions give each cluster&rsquo;s mean and 68% probability
+interval, respectively.</li>
+<li>If you hover the lines, you will get the exact proportion, mean, and standard
+deviation of that particular cluster.</li>
+</ul>
+<p>Here are a few examples of the interactive plots along with the code to produce them.</p>
 <h4 id="hdl-cholesterolcoronary-heart-disease-example">HDL cholesterol/Coronary heart disease example</h4>
 <div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#60a0b0;font-style:italic"># Load MRPATH</span>
 <span style="color:#06287e">library</span>(MRPATH)
@@ -120,7 +132,7 @@ MCEM_fit <span style="color:#666">=</span> initValsObj<span style="color:#666">$
 <div>
     <iframe seamless="seamless" style="border:none" src="http://www.danieliong.me/plotly/hdlchd_interactive_scatter.html" width=850 height=600></iframe>
 </div>
-<h3 id="bmitype-ii-diabetes-example">BMI/Type II diabetes example</h3>
+<h4 id="bmitype-ii-diabetes-example">BMI/Type II diabetes example</h4>
 <div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#60a0b0;font-style:italic"># Load MRPATH</span>
 <span style="color:#06287e">library</span>(MRPATH)
 
