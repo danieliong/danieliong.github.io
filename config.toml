@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Daniel Iong"
+theme = "hugo-resume"
+
+[params]
+firstName = "Daniel"
+lastName = "Iong"
+email = "daniong@umich.edu"
+showEducation = true
+showExperience = true
+showProjects = true
+showPublications = true
