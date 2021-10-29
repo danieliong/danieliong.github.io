@@ -35,7 +35,7 @@ image:
 slides: ""
 
 links:
-  - name: Github
+  - name: R Package
     url: https://github.com/danieliong/MRPATH
     icon_pack: fab
     icon: github
