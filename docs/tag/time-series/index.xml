@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time series | Daniel Iong</title>
+    <link>/tag/time-series/</link>
+      <atom:link href="/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>time series</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>time series</title>
+      <link>/tag/time-series/</link>
+    </image>
+    
+    <item>
+      <title>Explainable ML for space weather forecasting</title>
+      <link>/project/symh-forecasting/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/symh-forecasting/</guid>
+      <description>&lt;!-- TODO --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

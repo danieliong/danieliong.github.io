@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Daniel Iong</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on Daniel Iong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An interpretable machine learning method for forecasting the SYM-H Index</title>
+      <link>/publications/iong2021interpretable/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/iong2021interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization</title>
+      <link>/publications/iong2020latent/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/iong2020latent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

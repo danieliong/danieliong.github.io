@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Daniel Iong</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 13:52:45 -0700</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>An interpretable machine learning method for forecasting the SYM-H index</title>
+      <link>/publication/iong2021interpretable/</link>
+      <pubDate>Mon, 27 Sep 2021 13:52:45 -0700</pubDate>
+      <guid>/publication/iong2021interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization</title>
+      <link>/publication/iong2020latent/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/iong2020latent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

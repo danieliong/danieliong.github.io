@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Daniel Iong</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Explainable ML for space weather forecasting</title>
+      <link>/project/symh-forecasting/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/symh-forecasting/</guid>
+      <description>&lt;!-- TODO --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling heterogeneous causal mechanisms in epidemiology with observational data</title>
+      <link>/project/mr-path/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mr-path/</guid>
+      <description>&lt;!-- TODO --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

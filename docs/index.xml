@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Iong</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Iong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 13:52:45 -0700</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Daniel Iong</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>An interpretable machine learning method for forecasting the SYM-H index</title>
+      <link>/publication/iong2021interpretable/</link>
+      <pubDate>Mon, 27 Sep 2021 13:52:45 -0700</pubDate>
+      <guid>/publication/iong2021interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable ML for space weather forecasting</title>
+      <link>/project/symh-forecasting/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/symh-forecasting/</guid>
+      <description>&lt;!-- TODO --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization</title>
+      <link>/publication/iong2020latent/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/iong2020latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling heterogeneous causal mechanisms in epidemiology with observational data</title>
+      <link>/project/mr-path/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mr-path/</guid>
+      <description>&lt;!-- TODO --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
