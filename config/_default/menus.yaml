@@ -13,7 +13,12 @@ main:
   - name: Publications
     url: publication/
     weight: 30
-    # url: "#projects"
+  - name: Resume
+    url: resume_danieliong.pdf
+    weight: 40
+  # - name: Presentations
+  #   url: event/
+  #   weight: 40
   # weight: 30
   # - name: Presentations
   #   url: "#talks"

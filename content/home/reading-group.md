@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 weight: 70
 
 title: "Presentations"
-subtitle:
+subtitle: "Reading Groups"
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -23,7 +23,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: ""
+    tag: "reading group"
     exclude_featured: false
     exclude_future: false
     exclude_past: false

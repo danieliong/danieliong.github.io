@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading group | Daniel Iong</title>
+    <link>/tag/reading-group/</link>
+      <atom:link href="/tag/reading-group/index.xml" rel="self" type="application/rss+xml" />
+    <description>reading group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu8587b284e72fb192c57796c81c3f1b99_34255_512x512_fill_lanczos_center_3.png</url>
+      <title>reading group</title>
+      <link>/tag/reading-group/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Learning Rule</title>
+      <link>/talk/bayesian-learning-rule/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/bayesian-learning-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Autoencoders (VAE) &amp; Normalizing Flows</title>
+      <link>/talk/variational-autoencoders-vae-normalizing-flows/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/variational-autoencoders-vae-normalizing-flows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
