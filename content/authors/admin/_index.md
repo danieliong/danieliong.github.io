@@ -47,4 +47,4 @@ highlight_name: true
 <!-- **Fun fact**: My last name starts with an i! It's unfortunate that a capital i looks like a lowercase -->
 <!-- l in most fonts. -->
 
-Website still in progress!
+<!-- Website still in progress! -->

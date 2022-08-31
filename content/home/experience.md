@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Scientist Intern
+    company: Orbital Insight
+    company_logo: OI
+    company_url: "https://orbitalinsight.com/"
+    location: Palo Alto, CA
+    date_start: "2022-05-23"
+    date_end: "2022-08-12"
+    description: |2-
+      * Developed algorithm based on convolutional neural networks and other computer
+      vision methods to detect rare GNSS interference events in geolocation (AIS, ADS-B)
+      data as a key deliverable for a Department of Defense contract.
+      * Trained convolutional neural networks on generated synthetic data using PyTorch
+      on AWS EC2 instances.
   - title: Research Intern
     company: NASA Goddard Space Flight Center
     company_logo: NASA

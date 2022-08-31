@@ -1,14 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "An interpretable machine learning method for forecasting the SYM-H index"
+title: "New Findings From Explainable SYM-H Forecasting Using Gradient Boosting Machines"
 authors: ["Daniel Iong", "Yang Chen", "Gabor Toth", "Shasha Zou", "Tuija Pulkkinen",
 "Jiaen Ren", "Enrico Camporeale", "Tamas Gombosi"]
-date: 2021-09-27T13:52:45-07:00
+# date: 2021-09-27T13:52:45-07:00
+date: 2022-07-11
 # doi: "10.1002/essoar.10508063.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-09-27T13:52:45-07:00
+# publishDate: 2022-07-11
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +19,7 @@ publishDate: 2021-09-27T13:52:45-07:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted to Space Weather*"
+publication: "Space Weather"
 publication_short: ""
 
 abstract: ""
@@ -38,11 +40,11 @@ featured: false
 #   icon: twitter
 links:
   - name: DOI
-    url: https://doi.org/10.1002/essoar.10508063.2
+    url: https://doi.org/10.1029/2021SW002928
     icon_pack: ai
     icon: doi
   - name: PDF
-    url: https://www.essoar.org/pdfjs/10.1002/essoar.10508063.2
+    url: pdfs/iong2022new.pdf
     icon_pack: fas
     icon: file-pdf
   # - name: Poster

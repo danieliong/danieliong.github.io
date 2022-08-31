@@ -36,11 +36,11 @@ image:
 
 links:
   - name: DOI
-    url: https://doi.org/10.1002/essoar.10508063.2
+    url: https://doi.org/10.1029/2021SW002928
     icon_pack: ai
     icon: doi
   - name: PDF
-    url: https://www.essoar.org/pdfjs/10.1002/essoar.10508063.2
+    url: pdfs/iong2022new.pdf
     icon_pack: fas
     icon: file-pdf
   - name: Poster
