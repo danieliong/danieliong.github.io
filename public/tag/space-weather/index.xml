@@ -5,12 +5,20 @@
     <link>/tag/space-weather/</link>
       <atom:link href="/tag/space-weather/index.xml" rel="self" type="application/rss+xml" />
     <description>space weather</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Aug 2022 11:19:16 -0700</lastBuildDate>
     <image>
       <url>/media/icon_hu8587b284e72fb192c57796c81c3f1b99_34255_512x512_fill_lanczos_center_3.png</url>
       <title>space weather</title>
       <link>/tag/space-weather/</link>
     </image>
+    
+    <item>
+      <title>Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfvén Wave Solar Atmosphere Model</title>
+      <link>/publication/jivani2022global/</link>
+      <pubDate>Wed, 31 Aug 2022 11:19:16 -0700</pubDate>
+      <guid>/publication/jivani2022global/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explainable ML for space weather forecasting</title>

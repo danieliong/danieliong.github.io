@@ -1,25 +1,34 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New Findings From Explainable SYM-H Forecasting Using Gradient Boosting Machines"
-authors: ["Daniel Iong", "Yang Chen", "Gabor Toth", "Shasha Zou", "Tuija Pulkkinen",
-"Jiaen Ren", "Enrico Camporeale", "Tamas Gombosi"]
-# date: 2021-09-27T13:52:45-07:00
-date: 2022-07-11
-# doi: "10.1002/essoar.10508063.1"
+title: "Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfvén Wave Solar Atmosphere Model"
+authors: [
+    "Aniket Jivani",
+    "Nishtha Sachdeva",
+    "Zhenguang Huang",
+    "Yang Chen",
+    "Bart van
+    der Holst",
+    "Ward Manchester",
+    "Daniel Iong",
+    "Hongfan Chen",
+    "Shasha Zou",
+    "Gabor Toth",
+  ]
+date: 2022-08-31T11:19:16-07:00
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-09-27T13:52:45-07:00
-# publishDate: 2022-07-11
+publishDate: 2022-08-31T11:19:16-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Space Weather"
+publication: "*Submitted to Space Weather*"
 publication_short: ""
 
 abstract: ""
@@ -27,7 +36,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["space weather"]
 categories: []
 featured: false
 
@@ -40,23 +49,15 @@ featured: false
 #   icon: twitter
 links:
   - name: DOI
-    url: https://doi.org/10.1029/2021SW002928
+    url: https://doi.org/10.1002/essoar.10512216.1
     icon_pack: ai
     icon: doi
   - name: PDF
-    url: pdfs/iong2022new.pdf
+    url: https://www.essoar.org/pdfjs/10.1002/essoar.10512216.1
     icon_pack: fas
     icon: file-pdf
-  # - name: Poster
-  #   url: posters/vgem21.pdf
-  #   icon_pack: fas
-  #   icon: file
-  # - name: Slides
-  #   url: slides/solstice-seminar_09-02-2021.pdf
-  #   icon_pack: fas
-  #   icon: file-powerpoint
 
-# url_pdf: https://www.essoar.org/pdfjs/10.1002/essoar.10508063.1
+# url_pdf:
 # url_code:
 # url_dataset:
 # url_poster:
@@ -78,7 +79,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["symh-forecasting"]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
