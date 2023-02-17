@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ongoing | Daniel Iong</title>
+    <link>/tag/ongoing/</link>
+      <atom:link href="/tag/ongoing/index.xml" rel="self" type="application/rss+xml" />
+    <description>ongoing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu8587b284e72fb192c57796c81c3f1b99_34255_512x512_fill_lanczos_center_3.png</url>
+      <title>ongoing</title>
+      <link>/tag/ongoing/</link>
+    </image>
+    
+    <item>
+      <title>Variational inference for robust Gaussian process regression</title>
+      <link>/project/robust-gpr/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/project/robust-gpr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
