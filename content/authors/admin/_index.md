@@ -9,7 +9,6 @@ organizations:
 interests:
   - Probabilistic/Bayesian modeling
   - Time series forecasting
-  - Causal inference
   - (Statistical) machine learning
   - Applied Statistics
 
@@ -18,7 +17,7 @@ education:
     - course: PhD Statistics
       institution: University of Michigan, Ann Arbor
       start: 2017
-      end: Present
+      end: 2023
     - course: BS Statistics, BA Economics
       institution: University of California, Davis
       start: 2013
