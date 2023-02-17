@@ -72,7 +72,7 @@ In order to better visualize feature contributions, we created two interactive
 visualizations using Plotly. These should be mostly self-explanatory but here are some
 tips to get the most out of them:
 
-- Use the dropdown menu to view predictions/feature contributions from different test storms
+- Use the dropdown menu to view predictions/feature contributions from different test storms\*
 
 - Use the legend to select/de-select features. Double click the legend to select all.
 
@@ -84,6 +84,8 @@ tips to get the most out of them:
 - Since features are on different scales, the last plot is only useful when isolating
   one feature at a time.
 
+- Download a static version of current plot by clicking the camera icon on the top right
+
 _1 hr. ahead prediction **with** past SYM-H as input_
 
 {{< load-plotly >}}
@@ -93,3 +95,5 @@ _1 hr. ahead prediction **without** past SYM-H as input_
 
 {{< load-plotly >}}
 {{< plotly json="plotly/bz_vx_dyn_pressure_no_symh.json" height="1000px" width="100%" >}}
+
+<sub> \* _Only a subset of test storms are shown here due to Github's file size restrictions_</sub>
