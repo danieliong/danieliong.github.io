@@ -49,7 +49,58 @@
       <link>/project/symh-forecasting/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       <guid>/project/symh-forecasting/</guid>
-      <description>&lt;!-- TODO --&gt;
+      <description>&lt;h1 id=&#34;interactive-visualizations&#34;&gt;Interactive visualizations&lt;/h1&gt;
+&lt;p&gt;In order to better visualize feature contributions, we created two interactive
+visualizations using Plotly. These should be mostly self-explanatory but here are some
+tips to get the most out of them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Use the dropdown menu to view predictions/feature contributions from different test storms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use the legend to select/de-select features. Double click the legend to select all.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click and drag to select specific sections of the plots to zoom into.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hover over plots to get more specific information (e.g. date, SYM-H value,
+contributions, etc)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Since features are on different scales, the last plot is only useful when isolating
+one feature at a time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;1 hr. ahead prediction &lt;strong&gt;with&lt;/strong&gt; past SYM-H as input&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  
+  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+
+&lt;div id=&#34;plotly/es_dyn_pressure.json&#34; class=&#34;plotly&#34; style=&#34;height:1000px;width:100%;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;plotly/es_dyn_pressure.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;plotly\/es_dyn_pressure.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;1 hr. ahead prediction &lt;strong&gt;without&lt;/strong&gt; past SYM-H as input&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+&lt;div id=&#34;plotly/bz_vx_dyn_pressure_no_symh.json&#34; class=&#34;plotly&#34; style=&#34;height:1000px;width:100%;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;plotly/bz_vx_dyn_pressure_no_symh.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;plotly\/bz_vx_dyn_pressure_no_symh.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;
+&lt;/p&gt;
 </description>
     </item>
     

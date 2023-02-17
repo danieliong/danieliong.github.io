@@ -25,10 +25,10 @@ publishDate: 2022-08-31T11:19:16-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted to Space Weather*"
+publication: "Space Weather"
 publication_short: ""
 
 abstract: ""
@@ -49,11 +49,11 @@ featured: false
 #   icon: twitter
 links:
   - name: DOI
-    url: https://doi.org/10.1002/essoar.10512216.1
+    url: https://doi.org/10.1029/2022SW003262
     icon_pack: ai
     icon: doi
   - name: PDF
-    url: https://www.essoar.org/pdfjs/10.1002/essoar.10512216.1
+    url: pdfs/jivani2022global.pdf
     icon_pack: fas
     icon: file-pdf
 

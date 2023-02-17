@@ -19,7 +19,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -51,10 +51,11 @@ links:
     url: slides/solstice-seminar_09-02-2021.pdf
     icon_pack: fas
     icon: file-powerpoint
-  - name: Web App
-    url: https://geomag-interpret.herokuapp.com/
-    icon_pack: fas
-    icon: chart-bar
+  # name: Web App
+  #   url: https://geomag-interpret.herokuapp.com/
+  #   icon_pack: fas
+  #   icon: chart-bar
+  # # No longer works
     
 
 # Slides (optional).
@@ -65,4 +66,30 @@ links:
 slides: ""
 ---
 
-<!-- TODO -->
+# Interactive visualizations
+
+In order to better visualize feature contributions, we created two interactive
+visualizations using Plotly. These should be mostly self-explanatory but here are some
+tips to get the most out of them:
+
+- Use the dropdown menu to view predictions/feature contributions from different test storms
+
+- Use the legend to select/de-select features. Double click the legend to select all.
+
+- Click and drag to select specific sections of the plots to zoom into.
+
+- Hover over plots to get more specific information (e.g. date, SYM-H value,
+  contributions, etc)
+
+- Since features are on different scales, the last plot is only useful when isolating
+  one feature at a time.
+
+_1 hr. ahead prediction **with** past SYM-H as input_
+
+{{< load-plotly >}}
+{{< plotly json="plotly/es_dyn_pressure.json" height="1000px" width="100%" >}}
+
+_1 hr. ahead prediction **without** past SYM-H as input_
+
+{{< load-plotly >}}
+{{< plotly json="plotly/bz_vx_dyn_pressure_no_symh.json" height="1000px" width="100%" >}}

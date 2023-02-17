@@ -1,3 +1,5 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
 content/project/symh-forecasting/plotly/* filter=lfs diff=lfs merge=lfs -text
 docs/project/symh-forecasting/plotly/* filter=lfs diff=lfs merge=lfs -text
 public/project/symh-forecasting/plotly/* filter=lfs diff=lfs merge=lfs -text

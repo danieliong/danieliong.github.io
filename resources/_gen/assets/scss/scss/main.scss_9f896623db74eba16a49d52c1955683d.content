@@ -9494,3 +9494,6 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+.article-container {
+  max-width: 50%; }

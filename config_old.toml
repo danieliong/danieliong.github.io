@@ -1,0 +1,30 @@
+# baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Daniel Iong"
+theme = "academic"
+
+[params]
+firstName = "Daniel"
+lastName = "Iong"
+email = "daniong@umich.edu"
+# phone = "510-816-8686"
+profileImage = "img/grad_pic.jpg"
+showEducation = true
+showExperience = true
+showProjects = true
+showPublications = true
+showSkills = true
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/danieliong"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/danieliong"
+name = "Github"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
