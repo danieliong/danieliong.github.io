@@ -55,7 +55,7 @@ visualizations using Plotly. These should be mostly self-explanatory but here ar
 tips to get the most out of them:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Use the dropdown menu to view predictions/feature contributions from different test storms&lt;/p&gt;
+&lt;p&gt;Use the dropdown menu to view predictions/feature contributions from different test storms*&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Use the legend to select/de-select features. Double click the legend to select all.&lt;/p&gt;
@@ -70,6 +70,9 @@ contributions, etc)&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;Since features are on different scales, the last plot is only useful when isolating
 one feature at a time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Download a static version of current plot by clicking the camera icon on the top right&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;1 hr. ahead prediction &lt;strong&gt;with&lt;/strong&gt; past SYM-H as input&lt;/em&gt;&lt;/p&gt;
@@ -101,6 +104,7 @@ Plotly.d3.json(&#34;plotly/bz_vx_dyn_pressure_no_symh.json&#34;, function(err, f
 });
 &lt;/script&gt;
 &lt;/p&gt;
+&lt;p&gt;&lt;sub&gt; * &lt;em&gt;Only a subset of test storms are shown here due to Github&amp;rsquo;s file size restrictions&lt;/em&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
     </item>
     
